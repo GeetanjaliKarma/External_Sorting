@@ -20,7 +20,8 @@ public:
     }
 };
 
-class File{
+class File{/home/k.geetanjali/Downloads/code-stable-x64-1648620864
+
     deque<Page*> pagesPtr;
 public:
     void insertPagePtr(Page* page){
